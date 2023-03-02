@@ -1,0 +1,21 @@
+.login{
+    background-color: #a7f3d0;
+    height: 40vh;
+    border-radius: 10px;
+}
+.login-button{
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    padding: 15px 25px;
+    color: azure;
+    background-image: linear-gradient(blue,green);
+    transition: .5s;
+}
+
+.login-button:hover{
+    background-image: linear-gradient(coral,red);
+}
+.login-text{
+    color: #ef4444;
+}

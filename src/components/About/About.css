@@ -1,0 +1,21 @@
+.about-image{
+    border-radius: 20px;
+}
+
+.about-title{
+    padding: 5px;
+}
+
+.about-button{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: coral;
+    color: white;
+    font-weight: 600;
+    transition: .5s;
+}
+
+.about-button:hover{
+    background-color: tomato;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Labuan Bajo, NTT",
+        "price": "300.10",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/1T6zBG1/imagee-NUEL43-L.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rice Terraces, Bali",
+        "price": "249.00",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/K69fKBf/Image-EKP8-FQM.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Prambanan, Yogya",
+        "price": "199.00",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/vkqNgHL/prambanan-lhindu-temple-ruins-java-indonesia-e1608536848612.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Borobudur, Java",
+        "price": "200.00",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/s1md8NS/borobudur-temple-in-java-e1608536982992.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gili Meno, NTB",
+        "price": "250.00",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/QN2VdRv/Image-3-D44-PYB.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Singapore",
+        "price": "300.50",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/tJ794KF/singapore-city-skyline-e1608537068936.jpg"
+    }
+]

@@ -1,0 +1,15 @@
+.read-more{
+    font-size: 18;
+    color: coral;
+    font-weight: 600;
+}
+
+.ad-card{
+    padding: 15px;
+    border-radius: 10px;
+    transition: .5s;
+}
+
+.ad-card:hover{
+    box-shadow: 2px 5px 10px grey;
+}

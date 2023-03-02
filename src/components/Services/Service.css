@@ -1,0 +1,46 @@
+.discover-button{
+    color: white;
+    font-weight: 500;
+    font-size: 16;
+    padding: 10px 20px;
+    background-color: coral;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.discover-button:hover{
+    background-color: chocolate;
+    padding: 12px 22px;
+}
+
+.card-text{
+    padding: 10px;
+}
+
+
+.card{
+    
+    transition: 0.5s;
+    height: 500px;
+}
+
+.card:hover{
+    box-shadow: 2px 5px 10px grey;
+}
+
+/* .card-image{
+    border-radius: 10px;
+} */
+
+.text-price{
+    color: coral;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+ .Link{
+    text-decoration: none;
+}

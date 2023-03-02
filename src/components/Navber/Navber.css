@@ -1,0 +1,24 @@
+.logo{
+    width: 200px;
+    height: 100px;
+}
+
+
+.items{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: azure;
+    transition: .5s;
+}
+
+.items:hover{
+    font-weight: 600;
+    color: blue;
+}
+
+.navber{
+    background-color: #056d90;
+    /* border-radius: 10px; */
+}

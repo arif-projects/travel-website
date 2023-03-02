@@ -1,0 +1,17 @@
+.banner{
+    height: 75vh;
+    width: 100%;
+    background-image: url('../../image/banner.jpg');
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    margin-bottom: 60px;
+    border-bottom: 1px solid lightgrey;
+    color: #ffff;
+}
+
+.banner-text{
+    font-weight: 800;
+}

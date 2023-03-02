@@ -1,0 +1,15 @@
+.top{
+    background-color: black;
+    color: white;
+    height: 45vh;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-textt p{
+    color: gray;
+}
